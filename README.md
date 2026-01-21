@@ -44,18 +44,18 @@ Containerized cloud environments rely on efficient memory management, yet tradit
    
 ### Experimental Results (Summary)
 
-  | Nodes | Baseline MTBF (hrs) | Enhanced MTBF (hrs) | Improvment (%)  |
-  |-------|---------------------| --------------------| ----------------|
-  | 3     |  38                 | 66                  | 73.68           |
-  | 5     |  51                 | 87                  | 70.59           |
-  | 7     |  63                 | 106                 | 68.25           |
-  | 9     |  70                 | 120                 | 71.43           |
-  | 11    |  76                 | 134                 | 76.32           |
+  | Nodes | Rule Based ( % ) | ML-Based (%)   | Improvment (%)  |
+  |-------|------------------| ---------------| ----------------|
+  | 3     |  52.1            | 72.4           | 38.96           |
+  | 5     |  52.5            | 74.6           | 42.10           |
+  | 7     |  51.7            | 74.1           | 43.32           |
+  | 9     |  52.5            | 74.4           | 41.71           |
+  | 11    |  52.2            | 74.2           | 42.15           |
 
 ### Citation
-FAULT RECOVERY AND RESILIENCE IN CONTAINERIZED DISTRIBUTED SYSTEMS
+DYNAMIC MEMORY OPTIMIZATION IN CONTAINERIZED ENVIRONMENTS THROUGH MACHINE LEARNING MODELS
 * Kalesha Khan Pattan
-* International Journal on Science and Technology 
+* ******************************** 
 * ISSN E-ISSN: 2229-7677
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
