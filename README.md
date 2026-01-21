@@ -36,7 +36,7 @@ Containerized cloud environments rely on efficient memory management, yet tradit
 - **Cost-Efficient Operation in Multi-Tenant Environments:**
     Lowered operational costs by avoiding over-provisioning, making the framework highly beneficial for shared cloud platforms and enterprise-scale Kubernetes deployments.
 
-  - **Scalable and Adaptive Resource Management:**
+- **Scalable and Adaptive Resource Management:**
   Demonstrated consistent performance and utilization gains as cluster size increased, highlighting the framework’s suitability for large-scale, cloud-native infrastructures.
  
 - **Production, Research, and Educational Applicability:**
