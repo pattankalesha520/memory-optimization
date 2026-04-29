@@ -4,11 +4,9 @@
 
 ### Paper Information
 - **Author(s):** Kalesha Khan Pattan
-- **Published In:** ************************************************************
-- **Publication Date:** ************************
-- **ISSN:** ***********************
-- **DOI:**
-- **Impact Factor:** ***********
+- **Published In:** 7th International Conference on Multidisciplinary and Current Educational Research (ICMCER-2025)
+- **Publication Date:** 24th-25th October, 2025
+- **ISBN:** 978-93-92104-74-9
 
 ### Abstract
 Containerized cloud environments rely on efficient memory management, yet traditional rule-based autoscaling struggles to handle dynamic and unpredictable workloads. This study proposes an intelligent, machine learning–driven framework that continuously monitors runtime memory metrics and predicts future requirements using supervised and reinforcement learning models. By enabling proactive and adaptive memory allocation, the approach avoids both over-provisioning and under-provisioning common in static policies. Integrated with Kubernetes, the framework dynamically adjusts container memory limits without manual intervention. Experimental results show 30–40% improvements in memory utilization efficiency, reduced latency, and fewer SLA violations, demonstrating the effectiveness of ML-based autonomous memory optimization.
@@ -62,7 +60,7 @@ This research is shared for a academic and research purposes. For commercial use
 **Resources** \
 https://www.ijsat.org/ \
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
+**LinkedIn**: www.linkedin.com/in/pattan-khan-689978177 | **Email**: pattankalesha520@gmail.com
 
 
 
